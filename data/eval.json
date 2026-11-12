@@ -1,0 +1,11 @@
+[
+  {"question": "Quem propôs o ANFIS e em que ano?", "expected_source": "anfis.md"},
+  {"question": "Quantas camadas tem a arquitetura do ANFIS?", "expected_source": "anfis.md"},
+  {"question": "Como é feito o treinamento híbrido do ANFIS?", "expected_source": "anfis.md"},
+  {"question": "Qual é a fórmula da t-norma de Łukasiewicz?", "expected_source": "tnorms.md"},
+  {"question": "Quais propriedades definem uma t-norma?", "expected_source": "tnorms.md"},
+  {"question": "Dê exemplos de famílias de t-normas paramétricas.", "expected_source": "tnorms.md"},
+  {"question": "Para que serve a validação cruzada k-fold?", "expected_source": "validacao.md"},
+  {"question": "Qual teste usar para comparar vários classificadores em vários datasets?", "expected_source": "validacao.md"},
+  {"question": "O que é a busca em grade de hiperparâmetros?", "expected_source": "validacao.md"}
+]

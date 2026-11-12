@@ -1,0 +1,7 @@
+# Instale o PyTorch (versao CPU, mais leve) ANTES deste arquivo:
+#   pip install torch --index-url https://download.pytorch.org/whl/cpu
+transformers>=4.45
+sentence-transformers>=3.0
+numpy
+pypdf
+gradio>=4.0
